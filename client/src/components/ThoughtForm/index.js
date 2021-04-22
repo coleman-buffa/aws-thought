@@ -30,7 +30,7 @@ const ThoughtForm = () => {
     }
     postData();
     // clear form value
-    setFormState({ username: '', thought: '' });
+    setFormState({ username: '', thought: ''});
     setCharacterCount(0);
   };
 
