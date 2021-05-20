@@ -15,7 +15,7 @@ C'mon in and post your (G Rated) deep thoughts and post a picture alongside. Thi
 
 ## Goals and Methods
 
-The overall goal of this project was to continue practicing building front ends using React as well as get into some of the offerings from Amazon Web Services (AWS). AWS offers a year of free services on many of their platforms which represents a great opportunity for experimentation and exploration. 
+The overall goal of this project was to continue practicing building front ends using React as well as get into some of the offerings from Amazon Web Services (AWS). AWS offers a year of free services on many of their platforms which is a great opportunity for experimentation and exploration. 
 
 
 Project highlights include setting up DyanamoDB to store the basics of a thought, storing images associated with a thought in a S3 bucket, and deploying the project to an instance of EC2. These services are attractive because:
