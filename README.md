@@ -2,7 +2,7 @@
 
 C'mon in and post your (G Rated) deep thoughts and post a picture alongside. This web application allows you to make a post with a picture and view posts made by others. Powered by React, AWS Dynamo DB and S3, and hosted on AWS EC2.
 
-![Walkthrough](./path/to/demo.gif)
+![Walkthrough](./deep-thoughts.gif)
 
 ## Table of Contents
 
