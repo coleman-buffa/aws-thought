@@ -106,7 +106,7 @@ The intention of this section is documenting some of the 'Aha's and Gotchas for 
 Coleman Buffa
 
 * [Git Hub](https://github.com/coleman-buffa/aws-thought)
-* [My Portfolio](https://colemanbuffa-portfolio.herokuapp.com/)
+* [My Portfolio](https://www.colemanbuffa.com/)
 * [LinkedIn](https://www.linkedin.com/in/coleman-buffa/)
 
 ## Acknowledgments
