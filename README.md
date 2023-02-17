@@ -82,7 +82,7 @@ Nearly there! At this point we need build the react app, and navigate to the IP 
 
 ## Deployed Link
 
-[Deployed to EC2](http://184.169.218.40/)
+[Deployed to EC2]()
 
 ## Technologies 
 
